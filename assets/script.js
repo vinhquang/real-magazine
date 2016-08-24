@@ -1,0 +1,202 @@
+/* <![CDATA[ */
+var real3dflipbook_2 = {
+    "id": "2",
+    "name": "stylish",
+    "pages": pages,
+    "date": "2016-03-02 16:25:21",
+    "mode": "fullscreen",
+    "viewMode": "webgl",
+    "pageMode": "singlePage",
+    "pageSize": "large",
+    "singlePageMode": "false",
+    "skin": "light",
+    "sideNavigationButtons": "true",
+    "hideMenu": "false",
+    "sound": "true",
+    "pageFlipDuration": "1",
+    "pageShadow1": "true",
+    "pageShadow2": "true",
+    "pageShadow3": "true",
+    "tableOfContentCloseOnClick": "true",
+    "thumbnailsOnStart": "false",
+    "contentOnStart": "false",
+    "rightToLeft": "false",
+    "loadAllPages": "false",
+    "pageWidth": "",
+    "pageHeight": "",
+    "thumbnailWidth": "100",
+    "thumbnailHeight": "141",
+    "zoomLevels": "0.9,3",
+    "zoomDisabled": "false",
+    "startPage": "1",
+    "deeplinking": {
+        "enabled": "false",
+        "prefix": ""
+    },
+    "pdfUrl": "",
+    "pdfPageScale": "-2",
+    "pdfPageQuality": "0.9",
+    "pdfPageBgColor": "#FFFFFF",
+    "singlePageModeIfMobile": "false",
+    "pdfBrowserViewerIfMobile": "false",
+    "pdfBrowserViewerFullscreen": "true",
+    "pdfBrowserViewerFullscreenTarget": "_blank",
+    "btnTocIfMobile": "true",
+    "btnThumbsIfMobile": "true",
+    "btnShareIfMobile": "false",
+    "btnDownloadPagesIfMobile": "true",
+    "btnDownloadPdfIfMobile": "true",
+    "btnSoundIfMobile": "false",
+    "btnExpandIfMobile": "true",
+    "btnPrintIfMobile": "false",
+    "textureSizeIfMobile": "1024",
+    "backgroundColor": "#303030",
+    "backgroundPattern": "",
+    "height": "400",
+    "fitToWindow": "false",
+    "fitToParent": "false",
+    "fitToHeight": "false",
+    "offsetTop": "10",
+    "responsiveHeight": "true",
+    "aspectRatio": "2",
+    "lightboxCssClass": "",
+    "lightboxContainerCSS": "display:inline-block;padding:10px;",
+    "lightboxThumbnailUrl": "http:\\\/\\\/real3dflipbook.creativeinteractivemedia.com\\\/wp-content\\\/uploads\\\/2015\\\/07\\\/Stylish-212x300.jpg",
+    "lightboxThumbnailUrlCSS": "display:block;",
+    "lightboxText": "",
+    "lightboxTextCSS": "display:block;",
+    "lightboxTextPosition": "top",
+    "lightBoxOpened": "false",
+    "lightBoxFullscreen": "false",
+    "lightboxCloseOnClick": "false",
+    "currentPage": {
+        "enabled": "true",
+        "title": "Current page"
+    },
+    "btnNext": {
+        "enabled": "true",
+        "icon": "fa-chevron-right",
+        "title": "Next Page"
+    },
+    "btnLast": {
+        "enabled": "false",
+        "icon": "fa-step-forward",
+        "title": "First Page"
+    },
+    "btnPrev": {
+        "enabled": "true",
+        "icon": "fa-chevron-left",
+        "title": "Next Page"
+    },
+    "btnFirst": {
+        "enabled": "false",
+        "icon": "fa-step-backward",
+        "title": "First Page"
+    },
+    "btnZoomIn": {
+        "enabled": "true",
+        "icon": "fa-plus",
+        "title": "Zoom in"
+    },
+    "btnZoomOut": {
+        "enabled": "true",
+        "icon": "fa-minus",
+        "title": "Zoom out"
+    },
+    "btnToc": {
+        "enabled": "true",
+        "icon": "fa-list-ol",
+        "title": "Table of content"
+    },
+    "btnThumbs": {
+        "enabled": "true",
+        "icon": "fa-th-large",
+        "title": "Pages"
+    },
+    "btnShare": {
+        "enabled": "true",
+        "icon": "fa-share-alt",
+        "title": "Share"
+    },
+    "btnDownloadPages": {
+        "enabled": "false",
+        "url": "",
+        "icon": "fa-download",
+        "title": "Download pages"
+    },
+    "btnDownloadPdf": {
+        "enabled": "false",
+        "url": "",
+        "icon": "fa-file",
+        "title": "Download pdf",
+        "forceDownload": "true",
+        "openInNewWindow": "true"
+    },
+    "btnSound": {
+        "enabled": "true",
+        "icon": "fa-volume-up",
+        "title": "Sound"
+    },
+    "btnExpand": {
+        "enabled": "true",
+        "icon": "fa-expand",
+        "iconAlt": "fa-compress",
+        "title": "Toggle fullscreen"
+    },
+    "btnExpandLightbox": {
+        "enabled": "true",
+        "icon": "fa-expand",
+        "iconAlt": "fa-compress",
+        "title": "Toggle fullscreen"
+    },
+    "btnPrint": {
+        "enabled": "true",
+        "icon": "fa-print",
+        "title": "Print"
+    },
+    "webglMinAndroidVersion": "4.4",
+    "cameraDistance": "2800",
+    "pan": "0",
+    "tilt": "0",
+    "rotateCameraOnMouseDrag": "true",
+    "panMax": "20",
+    "panMin": "-20",
+    "tiltMax": "5",
+    "tiltMin": "-20",
+    "rotateCameraOnMouseMove": "false",
+    "panMax2": "2",
+    "panMin2": "-2",
+    "tiltMax2": "0",
+    "tiltMin2": "-5",
+    "bookX": "0",
+    "bookY": "0",
+    "bookZ": "0",
+    "pageMaterial": "phong",
+    "pageHardness": "2",
+    "coverHardness": "2",
+    "pageSegmentsW": "10",
+    "pageSegmentsH": "1",
+    "pageShininess": "20",
+    "ambLightColor": "#cccccc",
+    "spotLightColor": "#FFFFFF",
+    "spotLightX": "0",
+    "spotLightY": "0",
+    "spotLightIntensity": "0.08",
+    "spotLightShadowDarkness": "0.5",
+    "textureSize": "2048",
+    "type": "jpg",
+    "pageMiddleShadowWidth": "1",
+    "allowPageScroll": "vertical",
+    "menuSelector": ".navbar-fixed-top",
+    "zIndex": "auto",
+    "backgroundTransparent": "false",
+    "lights": "false",
+    "pageRoughness": "1",
+    "pageMetalness": "0",
+    "pageMiddleShadowSize": "2",
+    "pageMiddleShadowColorL": "#999999",
+    "pageMiddleShadowColorR": "#777777",
+    "antialias": "false",
+    "rootFolder": "assets\/"
+};
+/* ]]> */
